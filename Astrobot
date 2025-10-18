@@ -1,0 +1,106 @@
+<html>
+    <head>
+         <link rel="stylesheet" href="style.css"/>
+        <title>My favorite video game</title>
+    </head>
+    <body>
+
+        <header>
+            <img src="https://cdn.pixabay.com/photo/2016/10/20/18/35/earth-1756274_1280.jpg">
+        </header>
+        <main>
+            <h1 class="brown">Astrobot 2</h1>
+            <table>
+                <tr>
+                    <td>
+                        <img src="https://cdn.pixabay.com/photo/2017/09/12/11/56/universe-2742113_1280.jpg"width="369px">
+                    </td>
+                    <td>
+                        <img src="https://cdn.pixabay.com/photo/2016/03/18/15/02/ufo-1265186_1280.jpg"width="369px">
+                        </td>
+                        <td>
+                            <img src="https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg"width="369px">
+                            </td>
+                </tr>
+                <tr>
+                            <td>
+                                <img src="https://cdn.pixabay.com/photo/2017/08/15/08/23/stars-2643089_1280.jpg"width="369px">
+                                </td>
+                                <td>
+                                    <img src="https://cdn.pixabay.com/photo/2016/02/09/16/35/night-1189929_1280.jpg"width="369px">
+                                </td>
+                                <td>
+                                    <img src="https://cdn.pixabay.com/photo/2016/11/29/12/22/stars-1869447_1280.jpg"width="369px">
+                                </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="https://cdn.pixabay.com/photo/2011/12/14/12/18/space-11099_1280.jpg"width="369px">
+                    </td>
+                    <td>
+                        <img src="https://cdn.pixabay.com/photo/2020/09/14/10/45/spaceship-5570682_1280.jpg"width="369px"
+                        >
+                    </td>
+                    <td>
+                        <img src="https://cdn.pixabay.com/photo/2016/11/22/20/10/astronomy-1850461_1280.jpg"width="369px">
+                        </td>
+                </tr>
+                <tr>
+                        <td>
+                            <img src="https://cdn.pixabay.com/photo/2023/01/10/10/47/space-7709489_1280.jpg"width="369px">
+                        </td>
+                        <td>
+                            <img src="https://cdn.pixabay.com/photo/2023/10/24/19/09/nevada-8338929_1280.jpg"width="369px">
+                            </td>
+                            <td>
+                                <img src="https://cdn.pixabay.com/photo/2016/09/08/20/52/stars-1655504_1280.jpg"width="369px">
+                            </td>
+                </tr>
+            </table>
+<h2>What is Astrobot??</h2>
+<p>
+Astro Bot is a 2024 platform game developed by Team Asobi and published by Sony Interactive Entertainment for the PlayStation 5 in celebration of PlayStation's 30th anniversary. A follow-up to Astro's Playroom (2020), it is the fifth game in the Astro Bot series and Team Asobi's first game since its separation from Japan Studio.
+
+As Astro, the player embarks on a quest to save lost robots, retrieve parts for the PlayStation 5 mothership, and defeat the alien Space Bully Nebulax. Much like the previous title Astro's Playroom, Astro Bot uses DualSense controller features including adaptive triggers and haptic feedback.
+
+Astro Bot became the highest-rated game of 2024 on Metacritic. Critics praised the gameplay, level design, and content, with some comparing the game to Nintendo franchises, particularly the Super Mario series. Astro Bot won awards including Game of the Year at the Game Awards 2024, the 21st British Academy Games Awards, and the 28th Annual D.I.C.E. Awards. It has sold 2.3 million copies as of March 2025, making it one of the best-selling PlayStation 5 games.
+</p>
+
+<h2>Plot</h2>
+<p>
+Astro, the robot captain of a mothership resembling the PlayStation 5 console, and his crew of Bots are exploring space when a green alien named Space Bully Nebulax attacks them and rips out the mothership's CPU.
+An unconscious Astro and the mothership crash-land onto a desert planet while his crew and the mothership's core systems are scattered across the universe.
+
+Astro is revived by his Dual Speeder, a smaller spaceship resembling the DualSense controller, and together they begin reactivating satellites and exploring galaxies to rescue the crew and rebuild the mothership.
+The crew helps Astro gain access to Nebulax's minions, whom he defeats and recovers mothership parts from - the system memory from Mighty Chewy the gorilla, the solid state drive from Wako Tako the octopus,
+the graphics processing unit from Lady Venomara the snake, the cooling fan from Mecha Leon the chameleon, and the ship covers from Falcon McFly the bird. Along the way, he rescues V.I.P. Bots
+(guest characters from other games) and explores planets based on Ape Escape, God of War, Uncharted, LocoRoco, and Horizon.
+
+Once all parts save for the CPU have been recovered, Astro and his crew board ships based on older PlayStation hardware and form the "PlaySquadron" to take the fight to Nebulax,
+who has been harassing the helpless CPU throughout the game. Astro recovers the CPU, but when he and his crew defeat Nebulax by blowing up the spaceship he is attached to,
+it creates a black hole that begins to suck Nebulax in. Nebulax grabs Astro to try to take him down with him, but the crew take hold of Astro to try to pull him back.Refusing to let the crew sacrifice themselves.
+for him, Astro lets go of them and falls into the black hole, which explodes into a supernova.
+
+The crew mourns Astro and sad credits begin to roll, but are interrupted by a broken Astro falling back onto the mothership. Several Bots from the crew find replacement parts 
+and help the mothership's repair systems rebuild their captain, who springs back to life. The crew celebrates with a revived Astro, who departs once more on his Dual Speeder before the credits start to roll again.
+
+Once the actual credits finish rolling, a badly beaten Nebulax and his minions are seen floating through space; they threaten the player, but are sent flying by the sudden appearance of the words "THE END".
+</p>
+<h2>DualSense features</h2>
+<p>Astro Bot implements many of the DualSense controller's features in gameplay, particularly the haptic feedback and the adaptive triggers. To make the most out of DualSense,
+Team Asobi formed a small group solely dedicated to getting as much out of the controller as possible. Doucet notes a few examples of these features, which included using the adaptive triggers 
+to simulate squeezing water out of a sponge by changing its resistance level and using the haptic feedback to feel certain irregularities on a surface to uncover a hidden secret.
+Many features are first developed in isolation before the best ones become integrated into the main game (with the aforementioned sponge ability being one such example).
+</p>
+
+
+            <br>
+            <br>
+            <a href="https://www.metacritic.com/game/astro-bot/user-reviews/" class="link">User reviews</a>
+        </main>
+        <footer>
+            <img src="https://cdn.pixabay.com/photo/2024/12/06/12/23/ai-generated-9248643_1280.jpg">
+        </footer>
+    </body>
+</html>
+
